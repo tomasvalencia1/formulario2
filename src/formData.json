@@ -1,0 +1,1243 @@
+[
+  {
+    "id": "section_1",
+    "title": "1. INFORMACIÓN GENERAL",
+    "questions": [
+      {
+        "id": "q_1_1",
+        "text": "¿En qué etapa se encuentra la marca actualmente?",
+        "type": "radio",
+        "options": [
+          "Idea / Concepto",
+          "Desarrollo de producto",
+          "Pre-lanzamiento",
+          "Lanzamiento reciente (menos de 1 año)",
+          "Crecimiento (1-3 años)",
+          "Consolidación (más de 3 años)"
+        ]
+      },
+      {
+        "id": "q_1_2",
+        "text": "¿Cuál es la estructura legal y el tamaño de tu equipo actual?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_1_3",
+        "text": "Nivel de inversión inicial/actual:",
+        "type": "radio",
+        "options": [
+          "Bootstrapping (Fondos propios)",
+          "Capital Semilla (Friends & Family)",
+          "Inversión Ángel",
+          "Venture Capital"
+        ]
+      },
+      {
+        "id": "q_1_4",
+        "text": "Presencia actual (si aplica):",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_2",
+    "title": "2. HISTORIA DE LA MARCA",
+    "questions": [
+      {
+        "id": "q_2_1",
+        "text": "¿Cuál es la historia de origen de la marca? ¿Cómo y cuándo surgió la idea?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_2_2",
+        "text": "¿Hubo un \"momento de epifanía\" o inspiración que detonó la decisión de crearla? Descríbelo.",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_2_3",
+        "text": "¿Qué problema personal o del mercado estabas intentando resolver cuando la creaste?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_2_4",
+        "text": "¿Cuáles han sido los 3 hitos más importantes desde que iniciaste este viaje?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_2_5",
+        "text": "¿Qué emociones te impulsaron a dar el primer paso? (Ej. Frustración, pasión, necesidad de expresión)",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_2_6",
+        "text": "Si la historia de tu marca fuera una película, ¿cómo se llamaría el primer capítulo?",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_3",
+    "title": "3. PROPÓSITO",
+    "questions": [
+      {
+        "id": "q_3_1",
+        "text": "Más allá de generar ingresos, ¿por qué existe tu marca en el mundo?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_3_2",
+        "text": "¿Cuál es la filosofía fundamental que guía tus decisiones de diseño y negocio?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_3_3",
+        "text": "Misión (Lo que haces todos los días): ¿Qué hace la marca, para quién y cómo?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_3_4",
+        "text": "Visión (Hacia dónde vas): ¿Cómo se verá el mundo cuando tu marca haya alcanzado su máximo potencial?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_3_5",
+        "text": "Selecciona o escribe los 5 valores innegociables de tu marca y ordénalos por prioridad (1 al 5):",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_3_6",
+        "text": "Promesa de marca: ¿Qué es lo que le garantizas incondicionalmente a cada cliente?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_3_7",
+        "text": "Diferenciador principal: ¿Qué es aquello que tu marca hace y que NADIE más puede replicar exactamente igual?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_3_8",
+        "text": "Escribe 3 frases poderosas que podrían formar parte del \"Manifiesto\" de tu marca:",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_3_9",
+        "text": "ADN de marca (En 3 palabras): Si tuviéramos que destilar tu marca en sus 3 conceptos más puros, ¿cuáles serían?",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_4",
+    "title": "4. OBJETIVOS",
+    "questions": [
+      {
+        "id": "q_4_1",
+        "text": "Corto Plazo (0-12 meses)",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_4_2",
+        "text": "Mediano Plazo (1-3 años)",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_4_3",
+        "text": "Largo Plazo (3-10 años)",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_5",
+    "title": "5. FUNDADORA",
+    "questions": [
+      {
+        "id": "q_5_1",
+        "text": "Cuéntanos brevemente tu historia personal. ¿Dónde creciste y qué influencias de tu infancia moldearon tu estética?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_5_2",
+        "text": "¿Cuál ha sido tu trayectoria educativa y profesional hasta hoy?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_5_3",
+        "text": "¿Cuál es el recuerdo más vívido que tienes relacionado con la moda o el lujo?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_5_4",
+        "text": "¿Quiénes son tus mayores inspiraciones? (Pueden ser personas, artistas, diseñadores o figuras históricas)",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_5_5",
+        "text": "¿Cuáles son tus mayores sueños personales a través de este proyecto?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_5_6",
+        "text": "¿Qué te frustra de la industria actual de la moda?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_5_7",
+        "text": "¿Cuáles son tus creencias fundamentales sobre el trabajo y el liderazgo?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_5_8",
+        "text": "Autoevaluación de personalidad (Marca con una X donde te ubicas):",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_5_9",
+        "text": "Si no pudieras trabajar en moda, ¿qué estarías haciendo?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_5_10",
+        "text": "Descríbete a ti misma en 5 palabras exactas:",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_6",
+    "title": "6. BUYER PERSONA",
+    "questions": [
+      {
+        "id": "q_6_1",
+        "text": "Lienzo del Buyer Persona",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_6_2",
+        "text": "Describe un día típico en su vida (rutinas, hábitos):",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_6_3",
+        "text": "¿Cuáles son sus mayores miedos y sus motivaciones más profundas?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_6_4",
+        "text": "Consumo de medios: ¿Qué lee, qué escucha, a quién sigue en redes?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_6_5",
+        "text": "Comportamiento de compra: ¿Dónde compra, con qué frecuencia, qué valora más al pagar?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_6_6",
+        "text": "Mapa de Empatía Rápido:",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_7",
+    "title": "7. PÚBLICO OBJETIVO",
+    "questions": [
+      {
+        "id": "q_7_1",
+        "text": "¿Quién es tu audiencia primaria vs. tu audiencia secundaria?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_7_2",
+        "text": "Foco geográfico:",
+        "type": "radio",
+        "options": [
+          "Local (Ciudad)",
+          "Nacional (País)",
+          "Regional (Continente)",
+          "Global"
+        ]
+      },
+      {
+        "id": "q_7_3",
+        "text": "¿Cómo estimas el tamaño de tu audiencia? ¿Es un nicho muy específico o un mercado amplio?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_7_4",
+        "text": "¿Qué consideraciones culturales debes tener en cuenta al comunicarte con ellos?",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_8",
+    "title": "8. COMPETENCIA",
+    "questions": [
+      {
+        "id": "q_8_1",
+        "text": "Enumera 5 competidores directos y 5 indirectos/aspiracionales:",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_8_2",
+        "text": "Matriz Competitiva (Elige 3 competidores clave):",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_8_3",
+        "text": "¿Qué marcas admiras profundamente (incluso si no son de moda) y por qué?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_8_4",
+        "text": "¿A qué marca NO te gustaría parecerte nunca y por qué?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_8_5",
+        "text": "Análisis de brecha: ¿Qué está faltando actualmente en el mercado que tú vas a ofrecer?",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_9",
+    "title": "9. POSICIONAMIENTO",
+    "questions": [
+      {
+        "id": "q_9_1",
+        "text": "¿Cómo te perciben actualmente (o cómo crees que lo harán) vs. cómo deseas ser percibida?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_9_2",
+        "text": "Escala de Posicionamiento de Precio:",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_9_3",
+        "text": "Escala de Estilo:",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_9_4",
+        "text": "Declaración de Posicionamiento (Completa los espacios):",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_10",
+    "title": "10. PROPUESTA DE VALOR",
+    "questions": [
+      {
+        "id": "q_10_1",
+        "text": "Beneficios Funcionales (¿Qué hace tu producto físicamente por el cliente?):",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_10_2",
+        "text": "Beneficios Emocionales (¿Cómo le hace sentir al usarlo?):",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_10_3",
+        "text": "Beneficios Sociales (¿Cómo le hace ver ante los demás?):",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_10_4",
+        "text": "La prueba del \"Y a mí qué\" (\"So what?\"): Si le dices a tu cliente \"Hacemos ropa de alta calidad\", ¿por qué debería importarle?",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_11",
+    "title": "11. PERSONALIDAD DE MARCA",
+    "questions": [
+      {
+        "id": "q_11_1",
+        "text": "Si tu marca fuera una persona, ¿cómo sería físicamente?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_11_2",
+        "text": "Si pudiera hablar y presentarse en una fiesta, ¿qué diría en sus primeros 10 segundos?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_11_3",
+        "text": "¿Qué NUNCA diría o haría tu marca?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_11_4",
+        "text": "¿Qué ropa usaría en un domingo relajado?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_11_5",
+        "text": "¿Cómo caminaría por la calle? (Ej. rápido y con propósito, lento y observando todo)",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_11_6",
+        "text": "¿Qué música estaría escuchando en sus audífonos?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_11_7",
+        "text": "Espectro de Personalidad:",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_11_8",
+        "text": "Selecciona los 5 adjetivos que mejor la definen:",
+        "type": "checkbox",
+        "options": [
+          "Sofisticada ☐ Rebelde ☐ Elegante ☐ Atrevida ☐ Intelectual ☐ Cálida ☐ Distante ☐ Romántica ☐ Audaz ☐ Minimalista ☐ Nostálgica ☐ Futurista ☐ Sensual ☐ Práctica ☐ Soñadora"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "section_12",
+    "title": "12. ARQUETIPO",
+    "questions": [
+      {
+        "id": "q_12_1",
+        "text": "Tu marca encuentra a alguien perdido en la calle llorando, ¿qué hace exactamente?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_12_2",
+        "text": "En una película de Hollywood, tu marca tendría el rol de...",
+        "type": "radio",
+        "options": [
+          "El mentor sabio",
+          "El héroe valiente",
+          "El seductor misterioso",
+          "El rebelde que rompe el sistema",
+          "El creador visionario",
+          "El mejor amigo leal"
+        ]
+      },
+      {
+        "id": "q_12_3",
+        "text": "¿De dónde proviene la \"fuerza\" o el poder principal de tu marca?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_12_4",
+        "text": "¿Cuál es el mayor miedo de tu marca?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_12_5",
+        "text": "¿Qué \"regalo\" le entrega tu marca al mundo o a sus clientes?",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_13",
+    "title": "13. VOZ Y TONO",
+    "questions": [
+      {
+        "id": "q_13_1",
+        "text": "Ejercicio práctico: ¿Cómo saludaría tu marca a un nuevo cliente en un email? Escribe la primera línea.",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_13_2",
+        "text": "¿Cómo respondería a una queja de un cliente muy enojado en redes sociales?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_13_3",
+        "text": "Escribe un caption de Instagram típico para anunciar una nueva colección.",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_13_4",
+        "text": "Lista de 5 palabras que tu marca SIEMPRE usaría:",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_13_5",
+        "text": "Lista de 5 palabras que tu marca NUNCA usaría (Ej. \"barato\", \"chicos\"):",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_13_6",
+        "text": "Estilo de redacción preferido:",
+        "type": "checkbox",
+        "options": [
+          "Frases cortas y contundentes.",
+          "Párrafos poéticos y descriptivos.",
+          "Uso de emojis sutil.",
+          "Estrictamente texto limpio sin emojis.",
+          "Uso de mayúsculas para enfatizar."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "section_14",
+    "title": "14. IDENTIDAD VISUAL",
+    "questions": [
+      {
+        "id": "q_14_1",
+        "text": "Preferencias de Logo:",
+        "type": "checkbox",
+        "options": [
+          "Solo texto (Wordmark - Ej. Prada, Vogue)",
+          "Símbolo abstracto (Ej. Nike)",
+          "Monograma (Ej. Louis Vuitton, Gucci)",
+          "Emblema (Ej. Stella Artois)"
+        ]
+      },
+      {
+        "id": "q_14_2",
+        "text": "Tipografía (Atributos deseados):",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_14_3",
+        "text": "Psicología del Color: Describe los colores que sientes que representan a tu marca y por qué.",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_14_4",
+        "text": "Moodboard descriptivo: Si tuvieras que crear un panel de inspiración con imágenes, ¿qué veríamos en él? (Ej. arquitectura brutalista, naturaleza nórdica, películas de los 90).",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_14_5",
+        "text": "Estilo Fotográfico:",
+        "type": "checkbox",
+        "options": [
+          "Editorial / Alta Moda",
+          "Estilo de Vida / Documental",
+          "Estudio / Limpio y Minimalista",
+          "Crudo / Flash Directo / Analógico"
+        ]
+      },
+      {
+        "id": "q_14_6",
+        "text": "Texturas Visuales: ¿Qué materiales se sienten como tu marca? (Ej. Mármol frío, lino arrugado, terciopelo oscuro, metal pulido).",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_14_7",
+        "text": "El \"Anti-Moodboard\": Describe estéticas, colores o estilos gráficos que odias y nunca quieres ver en tu marca.",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_15",
+    "title": "15. DIRECCIÓN CREATIVA",
+    "questions": [
+      {
+        "id": "q_15_1",
+        "text": "¿Qué 3 palabras definen el ADN creativo de tus diseños?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_15_2",
+        "text": "¿Cómo quieres que se sienta una persona cuando entra a tu universo visual (sea tu web, tu tienda o tu Instagram)?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_15_3",
+        "text": "¿Cuáles son tus mayores fuentes de inspiración fuera de la moda?",
+        "type": "checkbox",
+        "options": [
+          "Arquitectura ☐ Naturaleza ☐ Cine ☐ Música ☐ Literatura ☐ Viajes ☐ Tecnología"
+        ]
+      },
+      {
+        "id": "q_15_4",
+        "text": "Tensión creativa: Las marcas más interesantes unen opuestos. ¿Qué contrastes maneja tu marca? (Ej. masculino/femenino, frágil/rudo, histórico/futurista).",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_15_5",
+        "text": "Si pudieras colaborar con cualquier artista, arquitecto o diseñador industrial (vivo o muerto), ¿quién sería y por qué?",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_16",
+    "title": "16. PRODUCTO",
+    "questions": [
+      {
+        "id": "q_16_1",
+        "text": "Categorías de producto iniciales:",
+        "type": "checkbox",
+        "options": [
+          "Ready-to-wear / Prêt-à-porter",
+          "Accesorios / Marroquinería",
+          "Calzado",
+          "Joyería",
+          "Otros: ______________"
+        ]
+      },
+      {
+        "id": "q_16_2",
+        "text": "El \"Hero Product\": ¿Cuál es o será la pieza insignia por la que quieres ser reconocida?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_16_3",
+        "text": "Arquitectura de Precios Estimada (Moneda: _______):",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_16_4",
+        "text": "¿Qué hace que tu producto sea físicamente superior o diferente? (Ej. Calce, tejido exclusivo, técnica artesanal).",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_16_5",
+        "text": "¿Qué materiales o tejidos son \"santos\" para ti y cuáles jamás usarías?",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_17",
+    "title": "17. COLECCIONES",
+    "questions": [
+      {
+        "id": "q_17_1",
+        "text": "Estructura de colecciones:",
+        "type": "radio",
+        "options": [
+          "Estaciones tradicionales (Primavera/Verano, Otoño/Invierno)",
+          "Drops mensuales o semanales limitados",
+          "Core / Essentials (No temporal) + Cápsulas ocasionales",
+          "Colecciones numeradas sin temporada"
+        ]
+      },
+      {
+        "id": "q_17_2",
+        "text": "¿Tendrán nombre tus colecciones? ¿De dónde vendrá la inspiración para los nombres?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_17_3",
+        "text": "¿Cuál será el balance entre piezas \"carry-over\" (básicos continuos) vs. piezas de temporada? (Ej. 70/30).",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_17_4",
+        "text": "Formato soñado de presentación para tu primera gran colección:",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_18",
+    "title": "18. PRODUCCIÓN",
+    "questions": [
+      {
+        "id": "q_18_1",
+        "text": "Modelo de producción:",
+        "type": "checkbox",
+        "options": [
+          "In-house (Taller propio)",
+          "Outsourcing (Talleres externos locales)",
+          "Outsourcing (Internacional)",
+          "Híbrido"
+        ]
+      },
+      {
+        "id": "q_18_2",
+        "text": "¿Dónde se fabrican tus productos geográficamente y por qué es importante esto para la historia de la marca?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_18_3",
+        "text": "¿Cuáles son tus estándares innegociables de ética y calidad en la producción?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_18_4",
+        "text": "Nivel de artesanía:",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_19",
+    "title": "19. EXPERIENCIA DEL CLIENTE (CUSTOMER JOURNEY)",
+    "questions": [
+      {
+        "id": "q_19_1",
+        "text": "Mapa del Customer Journey:",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_19_2",
+        "text": "Describe la experiencia ideal de un cliente abriendo un paquete tuyo (Unboxing):",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_19_3",
+        "text": "Resolución de quejas: ¿Cuál es tu filosofía cuando algo sale mal con un pedido?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_19_4",
+        "text": "Nombra una marca (fuera de la moda) cuya experiencia de cliente admires profundamente y por qué:",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_20",
+    "title": "20. BRANDING SENSORIAL",
+    "questions": [
+      {
+        "id": "q_20_1",
+        "text": "Olfativo: Si tu marca tuviera un perfume exclusivo para impregnar el packaging o la tienda, ¿qué notas tendría? (Ej. madera ahumada, cítricos frescos, rosas).",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_20_2",
+        "text": "Táctil: ¿Qué textura define el \"toque\" de tu marca? (Ej. suavidad extrema, rigidez estructurada, rugosidad natural).",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_20_3",
+        "text": "Auditivo: Crea una playlist mental. ¿Qué 3 canciones sonarían en el desfile o showroom de tu marca?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_20_4",
+        "text": "Gusto: Si sirvieras una bebida a tus clientes VIP mientras compran, ¿qué sería?",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_21",
+    "title": "21. PACKAGING",
+    "questions": [
+      {
+        "id": "q_21_1",
+        "text": "Elementos indispensables de tu packaging:",
+        "type": "checkbox",
+        "options": [
+          "Caja rígida ☐ Bolsa de tela (Dustbag) ☐ Papel de seda (Tissue) ☐ Cinta/Lazo ☐ Tarjeta de agradecimiento ☐ Sello de cera/Stickers ☐ Etiquetas colgantes (Hangtags) de alta calidad"
+        ]
+      },
+      {
+        "id": "q_21_2",
+        "text": "Materiales preferidos para el packaging:",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_21_3",
+        "text": "¿El packaging debe priorizar la experiencia de lujo, la sostenibilidad o buscar un híbrido perfecto? Explica cómo.",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_21_4",
+        "text": "¿Qué mensaje sutil debería comunicar el packaging antes incluso de que vean la ropa?",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_22",
+    "title": "22. MARKETING",
+    "questions": [
+      {
+        "id": "q_22_1",
+        "text": "Filosofía de Marketing:",
+        "type": "radio",
+        "options": [
+          "Inbound (Atracción magnética, contenido, PR)",
+          "Outbound (Publicidad directa, empuje activo)",
+          "Equilibrio de ambas"
+        ]
+      },
+      {
+        "id": "q_22_2",
+        "text": "Ordena tus canales prioritarios (1 al 5):",
+        "type": "checkbox",
+        "options": [
+          "Relaciones Públicas y Editorial (Revistas)",
+          "Redes Sociales Orgánicas",
+          "Pauta Digital (Ads)",
+          "Influencers / KOLs",
+          "Eventos y Experiencias Físicas"
+        ]
+      },
+      {
+        "id": "q_22_3",
+        "text": "Estrategia de Eventos: ¿Qué tipo de eventos organizarías para tu comunidad?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_22_4",
+        "text": "¿Cuál es tu postura sobre las rebajas y descuentos? (Ej. Nunca hacemos rebajas, solo en fechas clave, archivo privado).",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_23",
+    "title": "23. ESTRATEGIA DIGITAL",
+    "questions": [
+      {
+        "id": "q_23_1",
+        "text": "E-commerce:",
+        "type": "radio",
+        "options": [
+          "Desarrollo propio a medida",
+          "Plataforma líder (Shopify, Magento, etc.)",
+          "Exclusivamente a través de terceros/marketplaces de lujo (Farfetch, Net-a-Porter)"
+        ]
+      },
+      {
+        "id": "q_23_2",
+        "text": "¿Cuál es la funcionalidad \"no negociable\" que debe tener tu tienda online? (Ej. probador virtual, carga ultra rápida, atención por WhatsApp).",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_23_3",
+        "text": "¿Cómo planeas capturar y utilizar los datos de tus clientes respetando su privacidad?",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_24",
+    "title": "24. CONTENIDO",
+    "questions": [
+      {
+        "id": "q_24_1",
+        "text": "Pilares de contenido (Elige o define los 3 temas de los que tu marca siempre hablará):",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_24_2",
+        "text": "¿Mostrarás el \"Detrás de escena\" (Behind the scenes) de tu marca o mantendrás un aura de misterio e inaccesibilidad?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_24_3",
+        "text": "Formatos preferidos:",
+        "type": "checkbox",
+        "options": [
+          "Fotografía editorial ☐ Videos cortos dinámicos (Reels/TikTok) ☐ Mini-documentales ☐ Entrevistas escritas ☐ Podcast"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "section_25",
+    "title": "25. REDES SOCIALES",
+    "questions": [
+      {
+        "id": "q_25_1",
+        "text": "Prioridad de Plataformas (Marca del 1 al 4):",
+        "type": "checkbox",
+        "options": [
+          "Instagram (Visual, aspiracional)",
+          "TikTok (Dinámico, detrás de cámara, viralidad)",
+          "Pinterest (Moodboard, SEO visual)",
+          "LinkedIn (Negocio, historia de la fundadora)",
+          "YouTube (Formato largo, documentales)"
+        ]
+      },
+      {
+        "id": "q_25_2",
+        "text": "En Instagram, ¿tu grid (feed) debe verse hiper-curado y perfecto, o más casual y en tiempo real?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_25_3",
+        "text": "Nombra 2 o 3 cuentas de Instagram que envidias por su calidad estética y comunitaria:",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_26",
+    "title": "26. INFLUENCERS",
+    "questions": [
+      {
+        "id": "q_26_1",
+        "text": "¿Cuál es tu postura respecto a trabajar con influencers?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_26_2",
+        "text": "Nivel de influencia preferido:",
+        "type": "checkbox",
+        "options": [
+          "Nano/Micro (Comunidades pequeñas, nicho muy leal)",
+          "Macro (Gran alcance)",
+          "Celebridades / \"A-Listers\""
+        ]
+      },
+      {
+        "id": "q_26_3",
+        "text": "Criterios de Selección (¿Qué es lo más importante?):",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_26_4",
+        "text": "\"Banderas Rojas\" (Red Flags): ¿Qué comportamiento en un influencer haría que NUNCA trabajes con él/ella?",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_27",
+    "title": "27. EMBAJADORES",
+    "questions": [
+      {
+        "id": "q_27_1",
+        "text": "Describe el perfil exacto de la persona que elegirías como embajadora oficial de la marca (Profesión, estilo, valores):",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_27_2",
+        "text": "¿Cómo construirías una relación genuina a largo plazo con ellos en lugar de un simple intercambio transaccional?",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_28",
+    "title": "28. ASPECTOS COMERCIALES",
+    "questions": [
+      {
+        "id": "q_28_1",
+        "text": "Canales de venta iniciales y futuros:",
+        "type": "checkbox",
+        "options": [
+          "DTC (Directo al consumidor) Online",
+          "DTC (Directo al consumidor) Físico / Pop-ups",
+          "Wholesale (Venta al por mayor a boutiques/grandes almacenes)",
+          "Modelo B2B / Colaboraciones corporativas"
+        ]
+      },
+      {
+        "id": "q_28_2",
+        "text": "¿Cuál es la estrategia geográfica de expansión para los primeros 3 años?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_28_3",
+        "text": "Si buscaras una alianza comercial clave estratégica, ¿con qué tipo de empresa o marca sería?",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_29",
+    "title": "29. ASPECTOS LEGALES",
+    "questions": [
+      {
+        "id": "q_29_1",
+        "text": "¿El nombre de la marca ya está registrado como marca comercial (Trade Mark)?",
+        "type": "checkbox",
+        "options": [
+          "Sí, registrado",
+          "En proceso",
+          "No"
+        ]
+      },
+      {
+        "id": "q_29_2",
+        "text": "¿Existen patentes o diseños industriales que deban registrarse?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_29_3",
+        "text": "¿Eres propietaria de los dominios web (.com, .es, etc.) y los nombres de usuario exactos en redes sociales?",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_30",
+    "title": "30. SOSTENIBILIDAD",
+    "questions": [
+      {
+        "id": "q_30_1",
+        "text": "Nivel de compromiso actual:",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_30_2",
+        "text": "Iniciativas específicas (Marca las reales):",
+        "type": "checkbox",
+        "options": [
+          "Materiales reciclados/orgánicos",
+          "Trazabilidad completa de la cadena de suministro",
+          "Embalaje cero plásticos",
+          "Producción bajo demanda (On-demand) / Zero Waste",
+          "Impacto social positivo en comunidades de artesanos",
+          "Economía circular (Reparación, reventa)"
+        ]
+      },
+      {
+        "id": "q_30_3",
+        "text": "¿Cómo comunicarás tus esfuerzos sostenibles sin sonar oportunista o caer en el \"greenwashing\"?",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_31",
+    "title": "31. INNOVACIÓN",
+    "questions": [
+      {
+        "id": "q_31_1",
+        "text": "¿En qué áreas te gustaría que tu marca fuera reconocida como \"disruptiva\"?",
+        "type": "checkbox",
+        "options": [
+          "Tejidos/Materiales inteligentes",
+          "Modelo de negocio",
+          "Retail experiencial",
+          "Integración tecnológica (IA, Web3, RFID)",
+          "Procesos de fabricación"
+        ]
+      },
+      {
+        "id": "q_31_2",
+        "text": "¿Qué \"regla de oro\" de la industria de la moda te encantaría romper?",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_32",
+    "title": "32. FODA (SWOT)",
+    "questions": [
+      {
+        "id": "q_32_1",
+        "text": "Escribe aquí tu respuesta para esta sección",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_33",
+    "title": "33. RIESGOS",
+    "questions": [
+      {
+        "id": "q_33_1",
+        "text": "¿Cuál es el mayor riesgo financiero o de mercado que enfrenta tu lanzamiento?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_33_2",
+        "text": "¿Cuál sería un riesgo reputacional grave para tu marca (Ej. un escándalo de fábrica, un producto defectuoso) y cómo lo mitigarías?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_33_3",
+        "text": "Tolerancia al riesgo del negocio:",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_34",
+    "title": "34. FUTURO",
+    "questions": [
+      {
+        "id": "q_34_1",
+        "text": "Completa la visión para cada hito temporal:",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_34_2",
+        "text": "¿Qué otras categorías de producto (belleza, hogar, fragancias, hotelería) te imaginas lanzando en el futuro?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_34_3",
+        "text": "Si te ofrecieran publicar tu marca en la portada de una revista o vestirla en un evento mundial, ¿cuál sería el escenario definitivo de tus sueños?",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_35",
+    "title": "35. LEGADO",
+    "questions": [
+      {
+        "id": "q_35_1",
+        "text": "¿Qué impacto real quieres dejar en el mundo a través de esta marca?",
+        "type": "textarea",
+        "options": []
+      },
+      {
+        "id": "q_35_2",
+        "text": "¿Cómo te gustaría que recordaran tu marca en 50 años los libros de historia de la moda?",
+        "type": "textarea",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "section_36",
+    "title": "36. EJERCICIOS CREATIVOS FINALES",
+    "questions": [
+      {
+        "id": "q_36_1",
+        "text": "Si tu marca fuera un animal, sería: (y por qué)",
+        "type": "textarea"
+      },
+      {
+        "id": "q_36_2",
+        "text": "Si tu marca fuera una ciudad del mundo, sería: (y por qué)",
+        "type": "textarea"
+      },
+      {
+        "id": "q_36_3",
+        "text": "Si tu marca fuera una película, sería: (y por qué)",
+        "type": "textarea"
+      }
+    ]
+  }
+]
